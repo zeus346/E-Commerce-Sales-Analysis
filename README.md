@@ -5,7 +5,7 @@
 
 This project analyzes an e-commerce sales dataset using SQL and Power BI to identify sales trends, customer behavior, product performance, and business opportunities.
 
----
+
 
 ## 🎯 Business Objectives
 
@@ -19,7 +19,7 @@ The project answers the following business questions:
 - Which order statuses indicate business risk?
 - Which territories are underperforming?
 
----
+
 
 ## 🛠 Tools Used
 
@@ -27,7 +27,7 @@ The project answers the following business questions:
 - Power BI
 - Excel
 
----
+
 
 ## 📂 Dataset
 
@@ -35,7 +35,7 @@ The project answers the following business questions:
 - Years Covered: 2003–2005
 - Columns: 25
 
----
+
 
 ## 📈 Key Insights
 
@@ -45,7 +45,7 @@ The project answers the following business questions:
 - APAC showed relatively lower sales than EMEA.
 - A small number of customers generated a significant share of revenue.
 
----
+
 
 ## 💡 Business Recommendations
 
@@ -54,23 +54,12 @@ The project answers the following business questions:
 - Focus on retaining top customers.
 - Reduce disputed orders through operational improvements.
 
----
+
 
 ## 📷 Dashboard Preview
 
 <img width="1313" height="737" alt="dashboard-preview png" src="https://github.com/user-attachments/assets/c632b5b9-a472-445b-be55-05d49ed08763" />
 
 
----
 
-## 📁 Repository Structure
 
-├── SQL Queries
-
-├── Power BI Dashboard
-
-├── Dashboard Screenshot
-
-├── README.md
-
-└── Documentation
